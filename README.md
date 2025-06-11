@@ -59,7 +59,7 @@ Real-time experience of running these interfaces locally!👇
 | **Dropdown Calculator** | Num1: `8`, Num2: `2`, Operation: `"Multiply"` | ✅ Result: `16` |
 | **Image App** | Upload JPEG (400x400) | ✅ Output: `"Width: 400px, Height: 400px"` |
 | **File Reader** | Upload `.txt` file | ✅ Output: File contents previewed in UI |
-| **Textbox Chat** | `"Hello Gradio!"` | ✅ Response: `"You typed: Hello Gradio!"` |
+
 
 ---
 
