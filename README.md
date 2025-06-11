@@ -37,7 +37,7 @@ Welcome to my hands-on exploration of **[Gradio](https://gradio.app/)** — the 
 ### 🖼️ Image Input  
 ![Image Upload](./Screenshot%202025-06-11%20161118.png)
 
-### 💬 Textbox Input  
+### 💬 Comparing ImageNet vs MobileNet Models  
 ![Textbox](./Screenshot%202025-06-11%20173824.png)
 
 ---
